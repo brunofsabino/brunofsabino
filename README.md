@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/brunofsabino"></a>
-  
+  <img height="180em" align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofsabino&layout=compact&langs_count=7&theme=dracula"/>
 </div><br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
